@@ -1,0 +1,30 @@
+
+*					{ margin: 0; padding: 0; }
+body				{ font: 14px Georgia, serif; }
+
+#page-wrap		    { width: 500px; margin: 0 auto; }
+
+h1                  { margin: 25px 0; font: 14px Georgia, Serif; text-transform: uppercase; letter-spacing: 3px; }
+input.radio {width: auto;}
+
+
+#quiz ol {
+   margin: 0 0 20px 20px;
+}
+
+#quiz ol li {
+   margin: 0 0 10px 0;
+   
+}
+
+#quiz ol li div {
+   padding: 40px 40px;
+}
+
+#quiz h3 {
+   font-size: 17px; margin: 0 0 1px 0; color: #666;
+}
+
+#results {
+    font: 44px Georgia, Serif;
+}
